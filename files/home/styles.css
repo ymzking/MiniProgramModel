@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:-0px;
-  width:400px;
+  width:414px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -16,87 +16,31 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:400px;
-  height:600px;
+  width:414px;
+  height:896px;
   background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(204, 204, 204, 1);
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u0 {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:400px;
-  height:600px;
-}
-#u1 {
-  position:absolute;
-  left:2px;
-  top:292px;
-  width:396px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u2_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:300px;
-  height:170px;
-}
-#u2 {
-  position:absolute;
-  left:50px;
-  top:215px;
-  width:300px;
-  height:170px;
-}
-#u3 {
-  position:absolute;
-  left:2px;
-  top:77px;
-  width:296px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u4_div {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:152px;
-  height:33px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
+  background-color:rgba(25, 158, 216, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
-  font-style:normal;
-  text-align:center;
+  font-size:50px;
+  color:#FFFFFF;
 }
-#u4 {
-  position:absolute;
-  left:140px;
-  top:160px;
-  width:152px;
-  height:33px;
-  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
-  font-style:normal;
-  text-align:center;
-}
-#u5 {
+#u0 {
   position:absolute;
   left:0px;
   top:0px;
-  width:152px;
-  white-space:nowrap;
+  width:414px;
+  height:896px;
+  font-size:50px;
+  color:#FFFFFF;
+}
+#u1 {
+  position:absolute;
+  left:2px;
+  top:419px;
+  width:410px;
+  word-wrap:break-word;
 }
